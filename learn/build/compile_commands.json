@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ubuntu/workspace/alexa-cmake/learn/build",
+  "command": "/usr/bin/c++      -o CMakeFiles/app.dir/main.cpp.o -c /home/ubuntu/workspace/alexa-cmake/learn/main.cpp",
+  "file": "/home/ubuntu/workspace/alexa-cmake/learn/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/workspace/alexa-cmake/learn/build",
+  "command": "/usr/bin/c++      -o CMakeFiles/learn.dir/learn.cpp.o -c /home/ubuntu/workspace/alexa-cmake/learn/learn.cpp",
+  "file": "/home/ubuntu/workspace/alexa-cmake/learn/learn.cpp"
+}
+]
